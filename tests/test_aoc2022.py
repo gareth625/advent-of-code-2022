@@ -7,7 +7,7 @@ solutions = [
     (2, [15, 12]),
     (3, [157, 70]),
     (4, [2, 4]),
-    (5, [None, None]),
+    (5, ["CMZ", "MCD"]),
     (6, [None, None]),
     (7, [None, None]),
     (8, [None, None]),
