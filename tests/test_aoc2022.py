@@ -10,8 +10,9 @@ solutions = [
     (5, ["CMZ", "MCD"]),
     (6, [(7, 5, 6, 10, 11), (19, 23, 23, 29, 26)]),
     (7, [95437, 24933642]),
-    (8, [None, None]),
+    (8, [21, 8]),
     (9, [None, None]),
+    (14, [24, 93]),
 ]
 
 # Test each day by importing the module and running part1 and part2
